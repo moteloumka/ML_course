@@ -5,6 +5,8 @@ Stochastic Gradient Descent
 """
 from helpers import batch_iter
 from costs import compute_loss
+import numpy as np
+from template.gradient_descent import compute_gradient
 
 
 def compute_stoch_gradient(y, tx, w):
@@ -18,12 +20,7 @@ def compute_stoch_gradient(y, tx, w):
     Returns:
         An array of shape (2, ) (same shape as w), containing the stochastic gradient of the loss at w.
     """
-
-    # ***************************************************
-    # INSERT YOUR CODE HERE
-    # TODO: implement stochastic gradient computation. It's the same as the usual gradient.
-    # ***************************************************
-    raise NotImplementedError
+    return compute_gradient(y, tx, w)
 
 
 def stochastic_gradient_descent(y, tx, initial_w, batch_size, max_iters, gamma):
@@ -48,15 +45,29 @@ def stochastic_gradient_descent(y, tx, initial_w, batch_size, max_iters, gamma):
     w = initial_w
 
     for n_iter in range(max_iters):
-        # ***************************************************
-        # INSERT YOUR CODE HERE
-        # TODO: implement stochastic gradient descent.
-        # ***************************************************
-        raise NotImplementedError
+        # Randomly select a mini-batch from the dataset
+        minibatch_indices = np.random.choice(len(y), batch_size, replace=False)
+        minibatch_y = y[minibatch_indices]
+        minibatch_tx = tx[minibatch_indices]
+
+        # Compute the stochastic gradient for the mini-batch
+        gradient = compute_stoch_gradient(minibatch_y, minibatch_tx, w)
+
+        # Update the model parameters using the gradient and step size
+        w = w - gamma * gradient
+
+        # Calculate the loss for the current model parameters
+        loss = compute_loss(minibatch_y, minibatch_tx, w)
+
+        # Append the loss and updated parameters to the lists
+        losses.append(loss)
+        ws.append(w)
 
         print(
             "SGD iter. {bi}/{ti}: loss={l}, w0={w0}, w1={w1}".format(
                 bi=n_iter, ti=max_iters - 1, l=loss, w0=w[0], w1=w[1]
             )
         )
+
     return losses, ws
+
