@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbc34444-aa0b-4f6e-b4f3-fe63ed96ae5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/ex01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/exercise01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/npprimer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/python_setup_tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/taskA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/taskB.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/taskC.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/taskA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/taskB.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/taskC.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/ex02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/exercise02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/solution/solutions-theory-questions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/costs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/ex02.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/gradient_descent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/grid_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/grid_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/height_weight_genders.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/stochastic_gradient_descent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/subgradient_mae.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WZbHQ20uCtBPezHC1DXaQVh0Dp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc34444-aa0b-4f6e-b4f3-fe63ed96ae5f" name="Changes" comment="" />
+      <created>1696942960417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696942960417</updated>
+      <workItem from="1696942962668" duration="15000" />
+      <workItem from="1696943057938" duration="140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
