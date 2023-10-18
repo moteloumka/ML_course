@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="327df996-f562-43f0-a4fe-a29e8964aeca" name="Changes" comment="" />
+    <list default="true" id="4095915d-0c03-4386-9204-5db2145918e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ex03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise03.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution/solutions-theory-questions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/build_polynomial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/dataEx3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/ex03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/height_weight_genders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/ridge_regression.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/split_demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/visualize_polynomial_regression.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex04/template/build_polynomial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex04/template/build_polynomial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex04/template/cross_validation.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ex04/template/cross_validation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex04/template/ex04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ex04/template/ex04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex04/template/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex04/template/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex04/template/least_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex04/template/least_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex04/template/ridge_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex04/template/ridge_regression.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,28 +37,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2WX6M8iKSvdB77vEyaZQOahVU60" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WZczG2Tg2mdzHdujH1uYZtKeQG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="327df996-f562-43f0-a4fe-a29e8964aeca" name="Changes" comment="" />
-      <created>1696866528277</created>
+      <changelist id="4095915d-0c03-4386-9204-5db2145918e3" name="Changes" comment="" />
+      <created>1696943802759</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1696866528277</updated>
-      <workItem from="1696866530386" duration="259000" />
+      <updated>1696943802759</updated>
+      <workItem from="1696943804001" duration="171000" />
+      <workItem from="1696946780015" duration="246000" />
+      <workItem from="1696955002430" duration="2057000" />
+      <workItem from="1697116540415" duration="4208000" />
+      <workItem from="1697379418105" duration="987000" />
     </task>
     <servers />
   </component>

@@ -10,3 +10,4 @@ def load_data():
     x = data[0]
     y = data[1]
     return x, y
+

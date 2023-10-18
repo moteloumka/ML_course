@@ -2,46 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc34444-aa0b-4f6e-b4f3-fe63ed96ae5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/ex01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/exercise01.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/npprimer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/python_setup_tutorial.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/taskA.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/taskB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/taskC.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/solution/test_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/taskA.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/taskB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/taskC.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex01/template/test_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/ex02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/exercise02.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/solution/solutions-theory-questions.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/costs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/ex02.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/gradient_descent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/grid_plot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/grid_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/height_weight_genders.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/helpers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/plots.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/stochastic_gradient_descent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished labs/ex02/template/subgradient_mae.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/ex03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/exercise03.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/solution/solutions-theory-questions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/build_polynomial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/dataEx3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/ex03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/height_weight_genders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/ridge_regression.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/split_demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/ex03/template/visualize_polynomial_regression.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/build_polynomial.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/build_polynomial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/cross_validation.png" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/cross_validation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/ex04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/ex04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/least_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/least_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/ridge_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/ridge_regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +41,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WZbHQ20uCtBPezHC1DXaQVh0Dp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
@@ -76,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1696942960417</updated>
       <workItem from="1696942962668" duration="15000" />
-      <workItem from="1696943057938" duration="140000" />
+      <workItem from="1696943057938" duration="520000" />
+      <workItem from="1697658038643" duration="30000" />
     </task>
     <servers />
   </component>
@@ -93,5 +83,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

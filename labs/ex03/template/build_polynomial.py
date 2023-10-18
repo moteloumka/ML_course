@@ -18,8 +18,10 @@ def build_poly(x, degree):
     array([[1.  , 0.  , 0.  ],
            [1.  , 1.5 , 2.25]])
     """
+    # ***************************************************
     # Create a range of degrees from 0 to degree
     degrees = np.arange(degree + 1)
     # Use broadcasting to compute the polynomial values
     poly = x[:, np.newaxis] ** degrees
+
     return poly
