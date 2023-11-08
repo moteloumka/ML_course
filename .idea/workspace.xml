@@ -2,32 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc34444-aa0b-4f6e-b4f3-fe63ed96ae5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/ex03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/exercise03.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/solution/solutions-theory-questions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/build_polynomial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/dataEx3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/ex03.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/height_weight_genders.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/plots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/ridge_regression.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/split_demo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/ex03/template/visualize_polynomial_regression.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/ex03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/ex04/template/build_polynomial.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/build_polynomial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/ex04/template/cross_validation.png" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/cross_validation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/ex04/template/ex04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/ex04.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/ex04/template/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/helpers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/ex04/template/least_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/least_squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/ex04/template/ridge_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/labs/ex04/template/ridge_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/.idea/ex04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/exercise04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/bias_variance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/bias_variance_one_run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/build_polynomial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/costs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/cross_validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/cross_validation2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/dataEx3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/least_squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/ridge_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/ex04/template/test_utils.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +63,7 @@
       <workItem from="1696942962668" duration="15000" />
       <workItem from="1696943057938" duration="520000" />
       <workItem from="1697658038643" duration="30000" />
+      <workItem from="1697658301927" duration="526000" />
     </task>
     <servers />
   </component>
